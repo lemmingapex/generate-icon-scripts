@@ -1,2 +1,5 @@
-# generate-icon-scripts
-two shell scripts to generate icns and ico files
+# Generate Icon Scripts
+Generate icns and ico files from your macOS shell.
+
+Requires imagemagick convert:
+```brew install imagemagick```
